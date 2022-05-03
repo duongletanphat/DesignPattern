@@ -1,0 +1,16 @@
+C:\Users\phatd\OneDrive\Work Space\testCSharp\bin\Debug\net5.0\testCSharp.exe
+C:\Users\phatd\OneDrive\Work Space\testCSharp\bin\Debug\net5.0\testCSharp.deps.json
+C:\Users\phatd\OneDrive\Work Space\testCSharp\bin\Debug\net5.0\testCSharp.runtimeconfig.json
+C:\Users\phatd\OneDrive\Work Space\testCSharp\bin\Debug\net5.0\testCSharp.runtimeconfig.dev.json
+C:\Users\phatd\OneDrive\Work Space\testCSharp\bin\Debug\net5.0\testCSharp.dll
+C:\Users\phatd\OneDrive\Work Space\testCSharp\bin\Debug\net5.0\ref\testCSharp.dll
+C:\Users\phatd\OneDrive\Work Space\testCSharp\bin\Debug\net5.0\testCSharp.pdb
+C:\Users\phatd\OneDrive\Work Space\testCSharp\obj\Debug\net5.0\testCSharp.csproj.AssemblyReference.cache
+C:\Users\phatd\OneDrive\Work Space\testCSharp\obj\Debug\net5.0\testCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phatd\OneDrive\Work Space\testCSharp\obj\Debug\net5.0\testCSharp.AssemblyInfoInputs.cache
+C:\Users\phatd\OneDrive\Work Space\testCSharp\obj\Debug\net5.0\testCSharp.AssemblyInfo.cs
+C:\Users\phatd\OneDrive\Work Space\testCSharp\obj\Debug\net5.0\testCSharp.csproj.CoreCompileInputs.cache
+C:\Users\phatd\OneDrive\Work Space\testCSharp\obj\Debug\net5.0\testCSharp.dll
+C:\Users\phatd\OneDrive\Work Space\testCSharp\obj\Debug\net5.0\ref\testCSharp.dll
+C:\Users\phatd\OneDrive\Work Space\testCSharp\obj\Debug\net5.0\testCSharp.pdb
+C:\Users\phatd\OneDrive\Work Space\testCSharp\obj\Debug\net5.0\testCSharp.genruntimeconfig.cache
